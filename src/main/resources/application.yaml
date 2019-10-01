@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: mercury-eureka
+  profiles:
+    active: dev
+
+server:
+  port: 9090
